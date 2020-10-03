@@ -39,7 +39,7 @@
 
 <div style="width : 100%">
 
-<div id="languages_tools">
+<div class="languages_tools">
 
 <div>
 
@@ -105,7 +105,7 @@
 [sass]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png
 
 <style>
-    #languages_tools {
+    .languages_tools {
         width : 100%;
         align-items : center;
         display : flex;
@@ -113,7 +113,7 @@
         flex-direction : row;
         flex-wrap : wrap;
     }
-    #languages_tools img {
+    .languages_tools img {
         width : 50px;
     }    
 </style>
