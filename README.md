@@ -39,50 +39,55 @@
 
 <div style="width : 100%">
 
-<div class="languages_tools">
+<div div[style*="width: 50px"] style="width : 100%;
+        align-items : center;
+        display : flex;
+        justify-content : space-around;
+        flex-direction : row;
+        flex-wrap : wrap">
 
-<div>
+<div style="width: 50px">
 
 ![react]
 
 </div>
-<div>
+<div style="width: 50px">
 
 ![vue]
 
 </div>
 
-<div>
+<div style="width: 50px">
 
 ![svelte]
 
 </div>
 
-<div>
+<div style="width: 50px">
 
 ![webpack]
 
 </div>
 
-<div>
+<div style="width: 50px">
 
 ![gulp]
 
 </div>
 
-<div>
+<div style="width: 50px">
 
 ![python]
 
 </div>
 
-<div>
+<div style="width: 50px">
 
 ![typescript]
 
 </div>
 
-<div>
+<div style="width: 50px">
 
 ![sass]
 
@@ -103,17 +108,3 @@
 [python]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 [typescript]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png
 [sass]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png
-
-<style>
-    .languages_tools {
-        width : 100%;
-        align-items : center;
-        display : flex;
-        justify-content : space-around;
-        flex-direction : row;
-        flex-wrap : wrap;
-    }
-    .languages_tools img {
-        width : 50px;
-    }    
-</style>
