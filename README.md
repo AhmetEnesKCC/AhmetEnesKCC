@@ -64,7 +64,7 @@
 
 ---
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=ahmeteneskcc&show_icons=true&hide_border=true)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=ahmeteneskcc&show_icons=true&hide_border=true&theme=gotham)
 
 [twitter]: https://twitter.com/kccenes
 [gmail]: mailto:ahmetkcc2001@gmail.com
