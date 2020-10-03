@@ -64,7 +64,11 @@
 
 ---
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=ahmeteneskcc&show_icons=true&hide_border=true&theme=gotham)
+<img  style="margin: 0px auto; display : block"  src="https://github-readme-stats.vercel.app/api?username=ahmeteneskcc&show_icons=true&hide_border=true&theme=gotham&custom_title=My Github Stats">
+
+---
+
+<img style="margin: 0px auto; display : block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeteneskcc&theme=gotham">
 
 [twitter]: https://twitter.com/kccenes
 [gmail]: mailto:ahmetkcc2001@gmail.com
