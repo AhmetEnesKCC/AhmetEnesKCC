@@ -61,7 +61,11 @@
 <img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
 
 </div>
- 
+
+---
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=ahmeteneskcc&show_icons=true&hide_border=true)
+
 [twitter]: https://twitter.com/kccenes
 [gmail]: mailto:ahmetkcc2001@gmail.com
 [linkedin]: https://www.linkedin.com/in/ahmet-enes-kececi-8b02821b6/
