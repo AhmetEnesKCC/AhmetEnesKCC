@@ -35,6 +35,85 @@
 <br />
 <br />
 
+## Languages and Tools
+
+<div style="width : 100%">
+
+<div id="languages_tools">
+
+<div>
+
+![react]
+
+</div>
+<div>
+
+![vue]
+
+</div>
+
+<div>
+
+![svelte]
+
+</div>
+
+<div>
+
+![webpack]
+
+</div>
+
+<div>
+
+![gulp]
+
+</div>
+
+<div>
+
+![python]
+
+</div>
+
+<div>
+
+![typescript]
+
+</div>
+
+<div>
+
+![sass]
+
+</div>
+
+</div>
+
+</div>
+
 [twitter]: https://twitter.com/kccenes
 [gmail]: mailto:ahmetkcc2001@gmail.com
 [linkedin]: https://www.linkedin.com/in/ahmet-enes-kececi-8b02821b6/
+[react]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png
+[vue]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png
+[svelte]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/svelte.svg
+[webpack]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png
+[gulp]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png
+[python]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+[typescript]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png
+[sass]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png
+
+<style>
+    #languages_tools {
+        width : 100%;
+        align-items : center;
+        display : flex;
+        justify-content : space-around;
+        flex-direction : row;
+        flex-wrap : wrap;
+    }
+    #languages_tools img {
+        width : 50px;
+    }    
+</style>
