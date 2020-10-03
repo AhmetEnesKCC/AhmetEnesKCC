@@ -48,48 +48,48 @@
 
 <div style="width: 50px">
 
-![react]
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/>
 
 </div>
 <div style="width: 50px">
 
-![vue]
-
-</div>
-
-<div style="width: 50px">
-
-![svelte]
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="react"/>
 
 </div>
 
 <div style="width: 50px">
 
-![webpack]
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/svelte.svg"/>
 
 </div>
 
 <div style="width: 50px">
 
-![gulp]
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"/>
 
 </div>
 
 <div style="width: 50px">
 
-![python]
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"/>
 
 </div>
 
 <div style="width: 50px">
 
-![typescript]
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 
 </div>
 
 <div style="width: 50px">
 
-![sass]
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
+
+</div>
+
+<div style="width: 50px">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
 
 </div>
 
