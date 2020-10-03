@@ -37,63 +37,28 @@
 
 ## Languages and Tools
 
-<div style="width : 100%">
-
-<div div[style*="width: 50px"] style="width : 100%;
+<div width="50px" div[style*="width: 50px"] style="width : 100%;
         align-items : center;
         display : flex;
         justify-content : space-around;
         flex-direction : row;
         flex-wrap : wrap">
 
-<div style="width: 50px">
+<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/>
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"/>
+<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="react"/>
 
-</div>
-<div style="width: 50px">
+<img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/svelte.svg"/>
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="react"/>
+<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"/>
 
-</div>
+<img  width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"/>
 
-<div style="width: 50px">
+<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/svelte.svg"/>
+<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
 
-</div>
-
-<div style="width: 50px">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"/>
-
-</div>
-
-<div style="width: 50px">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"/>
-
-</div>
-
-<div style="width: 50px">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-
-</div>
-
-<div style="width: 50px">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
-
-</div>
-
-<div style="width: 50px">
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
-
-</div>
-
-</div>
+<img width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
 
 </div>
 
