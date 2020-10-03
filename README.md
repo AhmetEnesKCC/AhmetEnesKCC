@@ -6,11 +6,11 @@
 
 - I want to be a senior front end developer.
 
-- My future plan is run a company which is about with open source software development and mak codign better.
+- My future plan is run a company which is about with open source software development and make codign better.
 
 - Also want to open a Kebab-Doner Restaurant in Turkey
 
-- I love graphical drawing and designing new websites or mobile apps to
+- I love graphical drawing and designing new websites or mobile apps
 
 ### Projects
 
