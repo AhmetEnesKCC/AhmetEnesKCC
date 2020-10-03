@@ -37,7 +37,7 @@
 
 ## Languages and Tools
 
-<div width="50px" div[style*="width: 50px"] style="width : 100%;
+<div style="width : 100%;
         align-items : center;
         display : flex;
         justify-content : space-around;
