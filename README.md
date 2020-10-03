@@ -62,8 +62,6 @@
 
 </div>
 
-## Latest Npm Packages
-
 [twitter]: https://twitter.com/kccenes
 [gmail]: mailto:ahmetkcc2001@gmail.com
 [linkedin]: https://www.linkedin.com/in/ahmet-enes-kececi-8b02821b6/
