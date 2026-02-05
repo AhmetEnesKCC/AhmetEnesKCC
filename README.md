@@ -29,8 +29,8 @@ With over **7 years of professional experience**, I specialize in building robus
 
 ### 📈 GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/ahmeteneskcc?template=classic&base.header=0&base.activity=0&base.community=0&repositories=1&metadata=1)
-
----
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AhmetEnesKCC&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=AhmetEnesKCC&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AhmetEnesKCC&layout=compact&theme=radical)
 
 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/ahmet-enes) | ahmet.enes.kcc@gmail.com
