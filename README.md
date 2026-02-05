@@ -13,7 +13,7 @@ With over **7 years of professional experience**, I specialize in building robus
 
 ---
 
-### 🏗️ What I'm Currently Working On
+### 🏗️ My Most Recent Project 
 - **SAM Terminal:** Developing autonomous AI agents for Web3 transactions using gRPC microservices.
 - **TinyAgents:** Building on-chain AI personas that manage token lifecycles autonomously.
 - **Open Source:** Contributing to Web3 tooling and high-performance backend adapters.
