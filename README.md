@@ -28,8 +28,11 @@ With over **7 years of professional experience**, I specialize in building robus
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmeteneskcc&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeteneskcc&layout=compact&theme=tokyonight)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmeteneskcc&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmet Enes's GitHub Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeteneskcc&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
+</p>
 
 ---
 
